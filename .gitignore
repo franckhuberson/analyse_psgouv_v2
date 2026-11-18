@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Dataset lourd (si > 25 Mo — sinon retirez cette ligne)
+# Psgouv 2023- juin 2024 final.csv
