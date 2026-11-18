@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analyse du Programme Social du Gouvernement (PSGouv 2)
 ### Réalisations 2023 – juin 2024 · Répartition territoriale et sectorielle
 
@@ -57,3 +58,7 @@ Dataset officiel « Réalisations du PSGouv 2 de 2023 à juin 2024 », publié s
 
 **Franck Huberson KANGAH** — Master2 en Big Data Analytics
 [GitHub](https://github.com/franckhuberson)
+=======
+# analyse_psgouv_v2
+Le PSGouv 2 est le programme social du gouvernement ivoirien. Ce notebook analyse la répartition de ses réalisations entre les 33 régions et districts du pays et les 6 grands secteurs d'intervention (Éducative, Sanitaire, Agricole, Électrique et Hydraulique, Sociale, Professionnelle).
+>>>>>>> 827354dce80c0b9ac7cf4a583db21f601fe8fe19
